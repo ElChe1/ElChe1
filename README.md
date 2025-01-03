@@ -10,6 +10,9 @@
 ## Projects
 
 ## Contact Me:
+<!-- 
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/)
+-->
   - [![Email](https://img.shields.io/badge/setcomu2005@gmail.com-Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:setcomu2005@gmail.com)
 </br>
     
