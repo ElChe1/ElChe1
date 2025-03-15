@@ -9,7 +9,8 @@
 
 ## Projects
 <a href="https://github.com/ElChe1/Explotation-Lab"><img src="https://raw.githubusercontent.com/ElChe1/Explotation-Lab/main/banner.png" style="height: 60%; width:60%;"/></a>
-[!Explotation-Lab](https://img.shields.io/github/stars/ElChe1/Explotation-Lab?label=Explotation%20Lab&style=social)
+
+[![Explotation-Lab](https://img.shields.io/github/stars/ElChe1/Explotation-Lab?label=Explotation%20Lab&style=social)](https://github.com/ElChe1/Explotation-Lab)
 
 ## Contact Me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Set_Cobler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/secomu))
