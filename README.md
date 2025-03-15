@@ -21,9 +21,10 @@
 ## 💻 Technologies & Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=square&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-%23008FBA.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-%23008FBA.svg?style=for-the-badge&logo=eventstore&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-%230167ff.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Networking](https://img.shields.io/badge/networking-%2320232a.svg?style=for-the-badge&logo=networking&logoColor=%2361DAFB)
+![Networking](https://img.shields.io/badge/networking-%2320232a.svg?style=for-the-badge&logo=n8n&logoColor=%2361DAFB)
 ![Window Server](https://img.shields.io/badge/Windows%20Server-1c92dd?style=for-the-badge&logo=serverless&logoColor=white)
+![Window Server](https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=htmx&logoColor=white)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elche1&theme=react-dark&bg_color=20232a&hide_border=true)
