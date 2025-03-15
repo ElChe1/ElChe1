@@ -25,16 +25,4 @@
 ![Metasploit](https://img.shields.io/badge/metasploit-%230167ff.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Networking](https://img.shields.io/badge/networking-%2320232a.svg?style=for-the-badge&logo=networking&logoColor=%2361DAFB)
 
-<!--
-```terminal
-PC> oho
-```
--->
-
-<!--
-## You can help 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/setcomu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jordiserrano) 
--->
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elche1&theme=react-dark&bg_color=20232a&hide_border=true)
