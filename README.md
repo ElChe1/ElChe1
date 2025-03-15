@@ -8,7 +8,9 @@
 🎯 **My goal:** To work as an **Ethical Hacker**, helping companies evaluate the security of their systems, identify vulnerabilities and propose effective solutions.
 
 ## Projects
-![Explotation_Lab](https://github.com/ElChe1/Explotation-Lab)
+![ExplotationLab](https://github.com/ElChe1/Explotation-Lab)
+
+<a href="https://github.com/ElChe1/Explotation-Lab"><img src="https://raw.githubusercontent.com/ElChe1/Explotation-Lab/banner.png" style="height: 60%; width:60%;"/></a>
 
 ## Contact Me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Set_Cobler-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/secomu))
