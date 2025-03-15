@@ -24,5 +24,6 @@
 ![Nmap](https://img.shields.io/badge/nmap-%23008FBA.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-%230167ff.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Networking](https://img.shields.io/badge/networking-%2320232a.svg?style=for-the-badge&logo=networking&logoColor=%2361DAFB)
+![Window Server](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=0021ff)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elche1&theme=react-dark&bg_color=20232a&hide_border=true)
