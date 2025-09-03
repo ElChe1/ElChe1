@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/setcomu/setcomu/d248aa62113b0758c39813b8d1e57b2f967f7140/name.svg" alt="Set Cobler" />
+<img src="https://raw.githubusercontent.com/setcomu/setcomu/d248aa62113b0758c39813b8d1e57b2f967f7140/name.svg" alt="name" />
 </h1>
 
 ## About me
