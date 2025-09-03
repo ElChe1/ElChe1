@@ -1,6 +1,8 @@
+<!---
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/setcomu/setcomu/543fb43a9e2573561b4b6f4d24db74bd6e36c1ac/name.svg" alt="name" />
-</h1>
+</h1> 
+-->
 
 ## About me
 🛡️ **I'm a student of Administration of Systems and Networks**, with a professional focus on **Cybersecurity** and a passion for **Ethical Hacking**.
