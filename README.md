@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/ElChe1/ElChe1/d248aa62113b0758c39813b8d1e57b2f967f7140/name.svg" alt="ElChè1" />
-</h1>
-
 ## About me
 🛡️ **I'm a student of Administration of Systems and Networks**, with a professional focus on **Cybersecurity** and a passion for **Ethical Hacking**.
 
