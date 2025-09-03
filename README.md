@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/setcomu/setcomu/d248aa62113b0758c39813b8d1e57b2f967f7140/name.svg" alt="name" />
+<img src="https://raw.githubusercontent.com/setcomu/setcomu/543fb43a9e2573561b4b6f4d24db74bd6e36c1ac/name.svg" alt="name" />
 </h1>
 
 ## About me
